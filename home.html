@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Infinite Scroll</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            background-color: #f5f8fa;
+        }
+        .tweet {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+        }
+        .tweet .avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+        }
+        #loadMoreText {
+            text-align: center;
+            color: #1da1f2;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        #loadingText {
+            text-align: center;
+            color: gray;
+        }
+
+
+
+
+        .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: black;
+            padding: 10px 0;
+        }
+        .footer .nav-icons {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .footer .nav-icons a {
+            color: white;
+            font-size: 24px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-4">
+        <!-- <h1 class="text-center mb-4">Home</h1> -->
+     <center> <img src="photos/twitter.svg" alt="Twitter Logo" width="80" ></center>
+
+        <div id="tweetsList"></div>
+        <p id="loadMoreText" class="my-3">Load More</p>
+        <p id="loadingText" class="d-none">Loading more...</p>
+    </div>
+    
+
+    <div class="footer">
+        <div class="container">
+            <div class="nav-icons">
+                <a href="#"><i class="fas fa-home"></i></a>
+                <a href="#"><i class="fas fa-search"></i></a>
+                <a href="#"><i class="fab fa-xing"></i></a>
+                <a href="#"><i class="far fa-bell"></i></a>
+                <a href="#"><i class="far fa-envelope"></i></a>
+                <a href="#"><i class="fas fa-user-friends"></i></a>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script>
+        let tweets = [];
+        let page = 1;
+        const postsPerPage = 5;
+        let loading = false;
+
+        async function fetchTweets() {
+            if (loading) return;
+            loading = true;
+            document.getElementById("loadingText").classList.remove("d-none");
+            try {
+                const res = await fetch("posts.json");
+                const data = await res.json();
+                const newTweets = data.slice((page - 1) * postsPerPage, page * postsPerPage);
+                tweets = [...tweets, ...newTweets];
+                page++;
+                renderTweets(newTweets);
+            } catch (error) {
+                console.error("Error fetching tweets:", error);
+            }
+            loading = false;
+            document.getElementById("loadingText").classList.add("d-none");
+        }
+
+        function renderTweets(newTweets) {
+            const list = document.getElementById("tweetsList");
+            newTweets.forEach(tweet => {
+                const tweetElement = document.createElement("div");
+                tweetElement.className = "tweet d-flex align-items-start p-3";
+                tweetElement.innerHTML = `
+                    <img src="${tweet.avatar}" class="avatar me-3" alt="Avatar">
+                    <div>
+                        <strong>${tweet.username}</strong> <span class="text-muted">@${tweet.handle}</span>
+                        <p class="mb-1">${tweet.content}</p>
+                        <div class="text-muted">
+                            <i class="far fa-comment"></i> 10
+                            <i class="fas fa-retweet mx-3"></i> 5
+                            <i class="far fa-heart"></i> 20
+                        </div>
+                    </div>
+                `;
+                list.appendChild(tweetElement);
+            });
+        }
+
+        document.addEventListener("scroll", () => {
+            const loadMoreText = document.getElementById("loadMoreText");
+            const rect = loadMoreText.getBoundingClientRect();
+            if (rect.top < window.innerHeight && !loading) {
+                fetchTweets();
+            }
+        });
+
+        fetchTweets();
+    </script>
+</body>
+</html>

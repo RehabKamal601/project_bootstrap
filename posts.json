@@ -1,0 +1,1081 @@
+[
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    }
+    ,
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "tech_guru",
+        "name": "Tech Guru",
+        "content": "Apple just announced a new product! Can't wait to try it. 🍏",
+        "time": "10m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "content": "Coding late at night... again. Who else loves the silence of the night? 🌙💻",
+        "time": "30m ago",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "username": "sports_fan",
+        "name": "Sports Fan",
+        "content": "That game was insane! What a goal in the last minute! ⚽🔥",
+        "time": "1h ago",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "foodie_love",
+        "name": "Foodie Love",
+        "content": "Check out this delicious burger I had today! 🍔🤤 #Foodie",
+        "time": "2h ago",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "username": "john_doe",
+        "name": "John Doe",
+        "content": "Just had an amazing coffee! ☕ #morningvibes",
+        "time": "2m ago",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    }
+]
